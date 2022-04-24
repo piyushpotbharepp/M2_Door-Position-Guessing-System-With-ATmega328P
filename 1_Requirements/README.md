@@ -4,10 +4,10 @@
   Introduction –
 </h2>
 <h4>
-  Door Possition Guessing System With ATmega328P is a project that operates on the position on the door in real time where it perfectly guess the door position whether it is opened and closed. The system helps the user by providing the output with the help og LEDs in guessing the possition of the door from the distance of very long where his visibility can help him providing the outputs of the system.<br> 
+  Door Position Guessing System With ATmega328P is a project that operates on the position on the door in real time where it perfectly guess the door position whether it is opened and closed. The system helps the user by providing the output with the help og LEDs in guessing the position of the door from the distance of very long where his visibility can help him providing the outputs of the system.<br> 
   ![car door opened and get crashed](https://user-images.githubusercontent.com/95415292/164893742-f0e885d0-b021-4581-a7a8-8ffe9d9441db.jpg)<br>
-  The project titled Door Possition Guessing System is guessing system for monitoring and controlling the door position just for user help and avoid accidents just because of not getting the information and sometimes because of less visibility, this system can help in that manner for avoiding the accidents and can help the user. The project Door Possition Guessing System is developed in SimulIDE and programmed in Microchip Studio with C language.<br>
-  The project Door Possition Guessing System gives us perfect information about the door whether it is opened or closed in real time manner. And due to this system will get the idea and the door position in real time we can do our certain works according at that instant.
+  The project titled Door Position Guessing System is guessing system for monitoring and controlling the door position just for user help and avoid accidents just because of not getting the information and sometimes because of less visibility, this system can help in that manner for avoiding the accidents and can help the user. The project Door Position Guessing System is developed in SimulIDE and programmed in Microchip Studio with C language.<br>
+  The project Door Position Guessing System gives us perfect information about the door whether it is opened or closed in real time manner. And due to this system will get the idea and the door position in real time we can do our certain works according at that instant.
 </h4>
 <h2>
   Objectives –
@@ -92,25 +92,25 @@
   Who
 </h3>
 <h4>
-  The Door Possition Guessing System is a hardware that will be fitted in the doors of car, home and other and it will provide the output to the user by LEDs for avoiding accidents and helping the user. 
+  The Door Position Guessing System is a hardware that will be fitted in the doors of car, home and other and it will provide the output to the user by LEDs for avoiding accidents and helping the user. 
 </h4>
 <h3>
   What
 </h3>
 <h4>
-  Door Possition Guessing System is a hardware that helps to detect the position of the door in real time manner for avoiding the accidents and helping the user.
+  Door Position Guessing System is a hardware that helps to detect the position of the door in real time manner for avoiding the accidents and helping the user.
 </h4>
 <h3>
   When
 </h3>
 <h4>
-  This Door Possition Guessing System is very useful when some user try to overtake the vehicles like car and suddenly the person in the car opens the door from the same side that time this system will help the user by blinking the LEDs for avoiding the accidents there.
+  This Door Position Guessing System is very useful when some user try to overtake the vehicles like car and suddenly the person in the car opens the door from the same side that time this system will help the user by blinking the LEDs for avoiding the accidents there.
 </h4>
 <h3>
   Where
 </h3>
 <h4>
-  The Door Possition Guessing System is nowadays essential need of the vehicles which haves the doors and giving information to the users coming from behind that door is opened and should drive by maintaining the distance.
+  The Door Position Guessing System is nowadays essential need of the vehicles which haves the doors and giving information to the users coming from behind that door is opened and should drive by maintaining the distance.
 </h4>
 <h3>
   How
@@ -150,7 +150,7 @@
   <ul>
     <li>
       <b>
-         Need battery for the whole process and continuous usage of batter may lead to change battery as it get dryaccordingly .
+         Need battery for the whole process and continuous usage of batter may lead to change battery as it get dry accordingly .
       </b>
     </li>
   </ul>
@@ -159,7 +159,7 @@
   Opportunities –
 </h2>
 <h4>
-  The Door Possition Guessing System is now-a-days very userful and essential component for avoiding accidents. Some components like LEDs with motion sensors are available in market but it operates on small button cell and that get dry in 10 to 15 days of usage and some time provides wrong infromation even the door is closed it blinks the LEDs.  
+  The Door Position Guessing System is now-a-days very useful and essential component for avoiding accidents. Some components like LEDs with motion sensors are available in market but it operates on small button cell and that get dry in 10 to 15 days of usage and some time provides wrong information even the door is closed it blinks the LEDs.  
 </h4>
 
 
